@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    background-color: #FFB74D !important; /* Forçar a cor da navbar */
+    background-color: #F2AC5B !important; /* Forçar a cor da navbar */
 }
 
 .navbar-brand {
@@ -82,3 +82,7 @@ body {
     border-radius: 10px; /* Arredonda as bordas da imagem */
     object-fit: cover; /* Mantém a proporção da imagem */
 }
+
+
+
+
